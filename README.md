@@ -1,11 +1,6 @@
 
-✅ 1. README.md for Your Repository
 
-This file will appear on your GitHub homepage and explain what your project is about.
-
-📄 Here's your suggested README:
-
-# Ethereum Beginners Guide (English & Hausa)
+Ethereum Beginners Guide (English & Hausa)
 
 Welcome to the **Ethereum Beginners Guide for Africa**, a simple, bilingual open-source resource designed to help new users understand the Ethereum blockchain in **English** and **Hausa**.
 
